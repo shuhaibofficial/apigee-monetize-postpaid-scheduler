@@ -1,0 +1,12 @@
+Reporting Period:,From:,7/1/2015,  To:,7/31/2015
+API Product:,All
+Developer:,All
+Application:,All
+Currency:,Local
+Type of Report:,Summary Revenue Report
+
+Monetization Package,Package ID,API Product,Product ID,Developer Name,Developer ID,Application Name,Application ID,Rate Plan,Plan ID,Currency,Transaction Type,Provider Status,Total Volume,Charged Rate
+Location,location,foo_product,foo_product,Apigee,QQ7uxeMGf3w9W08B,my_app,my_app,rate_plan_1,location_rate_plan_1,USD,SETUPFEES,SUCCESS,1,15
+Location,location,foo_product,foo_product,BarCompany,barcompany,my_app,my_app,rate_plan_1,location_rate_plan_1,USD,SETUPFEES,SUCCESS,1,15
+Location,location,foo_product,foo_product,fremont,fremont,my_app,my_app,rate_plan_1,location_rate_plan_1,USD,SETUPFEES,SUCCESS,1,15
+Location,location,foo_product,foo_product,Juan's Taco Shack,juan-s-taco-sha,my_app,my_app,rate_plan_1,location_rate_plan_1,USD,SETUPFEES,SUCCESS,1,15

@@ -1,0 +1,17 @@
+{
+  "name": "CSV_READER",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "neat-csv": "^5.2.0",
+    "strip-bom-stream": "^4.0.0"
+  }
+}
